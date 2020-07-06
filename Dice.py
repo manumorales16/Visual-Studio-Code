@@ -1,4 +1,5 @@
 import random
+import time
 
 print("This is a dice simulator")
 x = "y"
@@ -56,8 +57,10 @@ while bandera == True:
         
 
     else: ##x == "n":
-        bandera = False
         print("thanks for use the dice!!")
+        time.sleep(2)
+        bandera = False
+        
         
         
     
