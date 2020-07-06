@@ -1,6 +1,6 @@
 import random
 
-print("This is a dice stimulator")
+print("This is a dice simulator")
 x = "y"
 bandera = True
 
